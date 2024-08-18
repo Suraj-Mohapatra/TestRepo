@@ -1,1 +1,2 @@
-suraj
+code 1 = suraj
+code 2 = liku
